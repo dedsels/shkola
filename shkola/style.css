@@ -1,0 +1,12 @@
+body{
+    padding: 100px;
+    background-color: #BF918C;
+}
+article{
+    background-color: white;
+    color:#104BA9;
+    padding: 150px;
+    border-radius: 20px;
+    border: 2px #182698 solid;
+    font-size: 30px;
+}
